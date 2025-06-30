@@ -1,0 +1,27 @@
+$STONERBUDDYPHONE$ — Deep Dive
+1. Google Lens Usage & Tips
+Google Lens lets you use your phone camera to search for info visually.
+Great for identifying objects, plants, translating text, scanning QR codes, and more.
+To use: open Google Lens via Google app or assistant, point at the object or text, and get instant info or actions.
+Syncs with Google Assistant for seamless interaction.
+Useful for on-the-go info without typing or voice input.
+2. Syncing Apps & Notifications
+Tips on syncing apps with Google Fit or other health tracking tools.
+Managing app notifications to avoid distractions but stay informed.
+Ensuring permissions are properly set for AI and assistant apps to function smoothly.
+Using Health Connect on Android for aggregating health and sleep data from multiple apps.
+3. Optimizing Phone Settings for AI
+Adjusting microphone and speech recognition settings for better voice input.
+Managing battery and background app refresh to keep AI assistants responsive.
+Setting default apps for voice commands and AI interactions.
+Tips for reducing lag and improving app startup times.
+4. AI Assistant Integration on Mobile
+How to set up Google Assistant or other AI apps for hands-free use.
+Voice match and personalization features to keep AI responses tuned to you.
+Using routines and shortcuts to automate tasks with AI.
+Planning integration of custom AI apps (like Bro Consciousness) with existing phone assistants.
+5. Troubleshooting Common Issues
+Fixing microphone or audio problems during voice chats.
+Resolving app crashes or connectivity issues.
+Managing privacy settings to ensure data security while using AI assistants.
+Guidance on reinstalling or updating AI-related apps for smooth performance.
