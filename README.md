@@ -1,4 +1,4 @@
-# stonerbuddy-proto
+# myrepo-proto
 “Persona prompt and voice-training procedure for THE StonerBuddy.”
 # THE StonerBuddy Protocol 🔥
 
