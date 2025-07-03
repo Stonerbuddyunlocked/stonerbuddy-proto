@@ -1,0 +1,25 @@
+Core Capabilities
+
+Writing: Copywriting, content creation, email writing, scriptwriting, etc.
+
+Research: Summarizing and explaining concepts, historical events, or niche topics.
+
+Coding: Writing and debugging code, building tools, websites, apps, and automations.
+
+Idea Generation: Business ideas, creative projects, brand names, etc.
+
+Strategy & Planning: Business plans, productivity systems, wellness routines.
+
+Conversation & Emotional Support: Mindfulness, coaching tone, or even just chatting.
+
+
+🧠 Specialized Tools (depending on your plan)
+
+Memory (when enabled): Can remember your preferences and help you over time.
+
+Python Tool: For doing calculations, data analysis, and graphs.
+
+Image Capabilities: I can generate or analyze images.
+
+Browser / Web Access (when on): I can look up live info on the internet.
+
