@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Bro AI Assistant - Debug Mode</title>
+  <style>
+    body { font-family: Arial, sans-serif; padding: 20px; background: #f4f4f4; }
+    #chatbox { width: 100%; height: 300px; border: 1px solid #ccc; padding: 10px; overflow-y: scroll; background: #fff; }
+    #userInput { width: 70%; padding: 10px; }
+    #sendBtn, #voiceBtn { padding: 10px; margin-left: 5px; }
+    #errorLog { margin-top: 10px; color: red; font-size: 14px; }
+  </style>
+
