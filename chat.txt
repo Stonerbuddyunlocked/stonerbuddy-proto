@@ -1,0 +1,31 @@
+🔐 $STONERBUDDYUBLOCKED1033$
+
+🧠 App Code:
+- Custom virtual assistant app (HTML + JavaScript) with built-in ChatGPT-like model
+- API integrated for text input + response
+- Feature list includes: text chat, voice assistant plans, tap-to-earn system, idle game elements
+
+🧠 AI Project Notes:
+- Goal: Build an all-in-one assistant that can manage tasks, engage users with fun features, and grow with user input
+- Plan to move AI locally for advanced control
+- Future vision includes custom capability modules (AI check-ins, video analysis, scheduling)
+
+🎮 Game Blueprints:
+- Tap-to-Earn App: Users tap a button to earn points/cash, tracked per tap
+- Idle Game Add-on: Tapping builds structures (e.g., cities, empires) with visual progress
+- Cross-platform release plan (Play Store, Apple App Store, Microsoft Store)
+- Monetization via ads, optional upgrades, or energy refill system
+
+💬 Saved Conversations:
+- Local AI will scan Instagram/YouTube reel collections via pasted URLs
+- AI detects and tags content like “pranks,” “fitness,” etc., using audio and visual analysis (Whisper + CLIP)
+- Goal to help outreach workers: AI assistant handles client check-ins, reminders, and scheduling
+- Discussed how outreach jobs can lead to burnout, and AI could reduce emotional load
+
+🛠 Prompts to Reuse:
+- “Mark all videos about pranks” → triggers video scanning and tagging
+- “Scan my saved collection” → downloads + analyzes reels
+- “Remind my clients about appointments” → daily AI-generated check-in/reminder messages
+- “Load memory from $STONERBUDDYUBLOCKED1033$” → used when starting on a new account to restore context
+
+
